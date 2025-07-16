@@ -61,7 +61,7 @@ turnera/
 │   ├── service/
 │   ├── validation/
 │   └── TurneraApplication.java
-├── resources/
+├── resources/ -- Aca se encuentran las vistas
 │   ├── application.properties
 │   ├── static/
 │   └── templates/
