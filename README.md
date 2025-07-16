@@ -79,12 +79,15 @@ cd TurneraClinica
 ```
 
 2. **Configurar la base de datos:**
-   - Crear una base de datos llamada `turnera_db`.
+   - Crear una base de datos llamada `turnera_db`. Ejecutar paso a paso el turnera.sql
    - Modificar `application.properties` con tus credenciales.
 
 3. **Ejecutar el backend:**
    - Ejecutar la clase `TurneraApplication.java`.
 
+4. **Interactua con el front en localhost**
+
+5. **Si queres probar algunas funciones con Postman importa la collection Turnera.postma_collection.json, en la cual hay varios ejemplos**
 ---
 
 ## 📦 Dependencias Relevantes
